@@ -1,9 +1,22 @@
-#+TITLE: The Labour Party - A Marxist History
 #+DESCRIPTION: A summary of this book
+#+TITLE: The Labour Party - A Marxist History
 * Running themes
-- Separation of politics and economics 
-- Reform or revolution
-- Running the state more efficiently
+Separation of politics and economics 
+
+Reform or revolution
+
+Running the state more efficiently
+
+The LP is a supporter of the state - even at the cost of votes
+
+* Actors
+** AH - Arthur Henderson
+
+Leader of the party after MacDonald's removal due to his lack of enthusiasm for WWI
+** BCP - British Communist Party
+
+Founded in 1921 - supported Lenin and the Soviets
+** LP - Labour Party
 * 1. The birth of reformism
 ** The precursors: from Chartists to the Independent Labour Party
 1. The LP has always separated politics from trade unionism, unlike the Chartists
@@ -288,3 +301,156 @@ Finally, it suited the reformist aim of piecemeal takeover of industry, but as M
 
 * 4. Riding the post-war storm
 ** Did Labour prevent a British revolution?
+
+
+In 1918 there were revolutionary outbreaks in Finland, Germany, Austria, Hungary and Bavaria
+In all cases social democrats used 'socialism' as a fig-leaf for obsrtuction
+
+AH openly claimed that the LP calmed revolutionary spirit - however this isn't correct, the
+advanced workers largely ignored the LP
+** The shifting centre of gravity
+
+Although the LP did poorly in the 1918 election in terms of seats, and while it added
+its voice to the anti-Bolshevik chorus, it was innefective in stopping the very great numbers of strikes
+that occurred at this time.
+
+The centre of power had shifted to the unions. The LP still played an importnat role as an alibi for
+the unions
+** Three disputes
+
+In the Clydeside engineers strike for a 40 hour week the ILP tried to restrain the strikers
+
+The miners and railwaymen struck for nationalisation, an 80% wage rise and 2 hour working day reduction.
+Nationalisation was the problem - in a meeting with Lloyd George he told them they would win, but where they
+prepared to take over the function of the state. They were not and opted for a commission of enquiry.
+
+Similarly the leadership of the railwaymen brought their strike to an end in 9 days
+
+Although the LP and ILP were largely irrelevant - for example their papers didn't even have industrial correspondents,
+however their body of reformist ideas gave authority to the unions' brakes
+** Direct action - threat or opportunity?
+
+Although there was talk at this time of direct action, the counter-arguments won. After all,
+what was the point of the LP if we don't acheive reform constitutionally?
+** Labour's most daring hour
+
+Lloyd George called for British troops to back the Poles against Russia - this one time the LP
+supported calls for a general strike against this
+** Black Friday - the transition to a governing party
+
+At times betraying the revolutionary left can raise support for reformism - as there
+is no other option
+
+In 1921, an agreemet between railwaymen, transport workers and miners broke down when the colliery
+owners demanded a 50% pay cut. Labour offered no support, and in fact criticised those who expected
+unemployment benefits.
+
+Despite this - union membership suffered, and as support for direct action eroded, it transferred to the LP
+** The swing of the pendulum
+
+As union membership plummeted, the vote for the LP in the 1922 election doubled on 1918.
+
+A separation occured between the LP and the unions, with the latter losing or giving up their
+authority and positions within the LP.
+
+* 5. Proving Labour 'fit to govern': the 1924 administration
+
+Reformists see no contadiction between WC interests and capitalism. Workers belief in this can
+be shaken by Labour governments, however not professional reformists who operate and see the
+world very much in the framework of the state
+
+** Who captures whom?
+
+The Labour cabinet was very much captured by the state. They made clear to senior civil servants that
+it would be business as usual
+
+MacDonald's cabinet included almost no left wingers, however it did include tories and liberals
+
+** Managing the system
+
+The very first Labour cabinet set in motion the Emergency Powers Act, which gave authority for
+the armed forces to do the work of strikers
+
+The union bureaucracy supported the government in blocking strikes - they felt reluctantly compelled
+
+** The true capiatlist party?
+
+MacDonald announced at the opening of parliament that they would concentrate on rhte restoration of trade
+rather than unemployment relief
+
+Snowden, the chancellor, happily adopted an attitude of austerity.
+
+** Wheatley makes his mark
+
+John Wheatley managed to launch a house-building program, however he claimed (regretfully) that this wasn't a socialist
+policy, and that he had merely co-ordinated capitalists
+
+** The overall achievement
+
+MacDonald was eager to prove to the ruling class that the LP was worthy. Tories and Liberals saw
+little difference between LP policies and their own
+
+** The Red bogey
+
+In an effort to prove its anti-communist credentials, the government tried to prosecute a
+communist editor for incitement to mutiny. It was a hopeless case and had to be dropped - MacDonald
+then resigned due to this.
+
+The Zinoviev letter was published - and rather than pointing out it was a bad forgery, MacDonald gave
+it credibility
+
+The LP lost seats in the next election (despite gaining votes) and became the main opposition
+
+* 6. Revolution or reform: the left in the 1920s
+
+Lenin believed that to acheive socialism, it was necessary to
+
+- demonstrate that Labour's refomrism turns is against revolution
+- break the LP's restraining influence
+- win the majority of workers to a revolutionary alternative
+  
+** Home-grown attitudes to Labour  
+
+The successor to the SDF was the BSP, it fully supprted the LP and
+believed it could transform the pary to communism
+
+The Socialist Labour Party was syndicalist - it wanted to destroy the LP
+
+** Lenin's analysis
+
+Lenin recognised the the LP was borgeouis, however it was necessary to cooperate
+with it as it had the support of the larger body of workers
+
+** The affiliation tactic
+
+Lenin believed the Communists should leave the party, then apply for affiliation, while
+being openly critical. He believed even rejection by RH and RM would be advantageous.
+
+** Voting Labour
+
+Lenin recommended voting Labour, if only to expose the bankruptcy of the PLP. He thought
+disappointment would increase the chances of eventual overthrow
+
+"I want to support Henderson in the same way as a rope supports a hanged man"
+
+** The early Communist party
+The 1921 conference rejected affiliation with the BCP
+
+The BCP used a by-election in Caerphilly to allow a left-wing protest against the LP and build
+its organization. The PLP was incensed, but this had the support of the workers. They won two seats
+in parliament
+
+** The inevitable pressures
+
+Members of the BCP believed they couldn't achieve success without membership of the LP, this pulled them
+towards reformism.
+
+Tories openly defend the system, in practise the LP always defends it 
+
+Similarly, the Mensheviks, who were far to the left of the LP, lined up with the most reactionary forces
+against the Bolsheviks
+
+** The Left Wing Movement
+
+The LWM was formed by various 
+
