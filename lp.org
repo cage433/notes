@@ -1,9 +1,9 @@
 #+DESCRIPTION: A summary of this book
 #+TITLE: The Labour Party - A Marxist History
 * Running themes
-Separation of politics and economics 
-
 Reform or revolution
+
+Separation of politics and economics 
 
 Running the state more efficiently
 
@@ -452,5 +452,124 @@ against the Bolsheviks
 
 ** The Left Wing Movement
 
-The LWM was formed by various 
+The LWM was formed by various left wing groups, with the intention of
+building a left wing program in the LP
+
+Its aim was to achieve conference resolutions - this meant little more than a left
+sounding home for those disillusioned with the LP. It hindered workers discovering te true
+nature of the LP.
+
+** The theoretical flaw: Labour equals the trade unions
+
+The theory underlying the LWM was that mass struggle would
+drive unions leftwards, and convert the LP to revolutionary
+politics, the latter following from identification of the LP with
+the unions. Both were incorrect.
+
+Union meetings could lead to revolutionary politics, albeit not via the
+bureaucracy, as there is a common class bond. In LP meetings the common
+bond is the election, and general reformist politics.
+
+** From reformist mistakes to untra-leftism
+
+The analysis of the CP, that the leadership would inevitable fall to the left,
+was completely flawed.
+
+Progress had always been made _despite_ the LP, in fact the influence of the LP
+only grew after defeats
+
+Rather than being pushed leftwards, in 1928 there was a communist witch-hunt, purging the LP.
+This led to ultra-leftist calls to disaffiliate
+
+** Trotsky's conrtibution
+
+He correctly analysed the inadequacied in the LP, and correctly predicted that
+Britain was on the eve of a class struggle - however he expected the CP to replace
+the LP
+
+** The ILP pays the price of reformist 'success'
+
+The ILP had a majority of Labour MPs in the 20s, however it failed
+to achieve real power. MacDonald had little respect for it.
+The reason for its failure was that it always had to fail - it tried to
+satisfy workers aspirations via capitalist institutions
+
+** The Clydesiders
+
+These were the most ourspoken MPs, getting ejected from parliament for their
+lack of respect. However they had no intentions beyond 'shaking up' parliament - certainly
+not smashing it
+
+** 'Socialism in our time'
+
+This was a policy devised by J A Hobson and the ILP. He looked for a minimum
+wage - seeing the problems of capitalism as one of underconsumption.
+
+At this point the empire started looking attractive to many in the LP as a source
+of income.
+
+** Poplarism
+
+This was a well planned campaign to break council law in order to force
+fairer distribution of council rates across London in 1921. Initially arrested, uproar led to
+their release and accesion to their demands.
+
+Four years later, with a complete lack of support by the new Labour government, Poplarism was defeated
+
+** The balance sheet
+
+The state had ceased to fear unrest. There was a change in tone in the 20s, from one of fear to amusement
+
+* 7. General Strike and aftermath
+** Background
+
+Disillusioned by the first Labour government, the unions sought to keep the LP
+out of their affairs
+
+The LP was appaled by Red Friday, when the miners forced the government to subsidise their wages.
+
+As the general strike approached, the LP claime to be on the miners side - however this support was
+incompatible with capitalism, and so they sold out
+** Solidarity, treachery and irrelevance
+
+The PLP did _nothing_ to support the strike
+
+The national executive doesn't appear to have even met during the strike
+** Labour - the alibi for a sell-out
+
+    The TUC leadership was terrified of the thought of confronting the state, and
+    so used the LP as an excuse to keep out of the strike
+
+    During 'normal' times, it might seem that the separation of politics and economics is sensible, however
+    this is incorrect
+
+    The communist party, wlthough tiny, was much more active
+** The post-mortem
+
+The PLP was delighted when the strike collapsed, as it entrenched their power at the
+expense of the unions.
+
+As in previous defeats, the workers looked to the LP to help them
+** A horrific postscript
+
+the LPs financial support for the miners was paltry to the point of cruelty
+
+The Webbs suffered anguish over a donation of £10
+** The fruits of defeat: the anti-communist witch hunt
+
+The LP passed resolutions prohibiting people who had supported non-LP candidates from being delegates - this
+meant communists. It proved unpopular and unworkable
+
+The three main sections of the lP come into focus. The unions, which dominate conference, who are ignored by the PLP. Also
+the constituency party, which can be much more left wing, however has less power than the unions.
+
+Communists were used a a scapegoat when the 1924 election went badly
+
+After the strike the LP began expelling local labour parties - despite some resistence, by 1928 the witch hunt was complete. At that
+years conference the executive was the only body with the power to bring motions. A loyalty clause was introduced preventing even
+associates of communists appearing on the same platform as LP members.
+
+This had the effect of silencing the labour left
+
+* 8 Reformists and the slump: the second Labour government
 
