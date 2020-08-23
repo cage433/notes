@@ -9,6 +9,11 @@ Running the state more efficiently
 
 The LP is a supporter of the state - even at the cost of votes
 
+Change takes place outside parliament - it os only ever workers struggles which
+ever have an effect
+
+Labour _always_ opposes industrial action
+
 * Actors
 ** AH - Arthur Henderson
 
@@ -19,11 +24,15 @@ Founded in 1921 - supported Lenin and the Soviets
 ** LP - Labour Party
 * 1. The birth of reformism
 ** The precursors: from Chartists to the Independent Labour Party
-1. The LP has always separated politics from trade unionism, unlike the Chartists
-2. After the failure of the 1842 general strike, the 1848 revolutions, and a subsequent economic boom,
-   the working class grew more quiescent, to the extent they could start to be trusted with the vote in 1867
-3. The first Labour MPs were elected in the 1870s, however these were working class people standing as Liberals
-4. As Engels predicted, growth of US power caused the economic boom to falter later in the century
+The LP has always separated politics from trade unionism, unlike the Chartists
+
+After the failure of the 1842 general strike, the 1848 revolutions, and a subsequent economic boom,
+the working class grew more quiescent, to the extent they could start to be trusted with the vote in 1867
+
+The first Labour MPs were elected in the 1870s, however these were working class people standing as Liberals
+
+As Engels predicted, growth of US power caused the economic boom to falter later in the century
+
 ** From New Unionism to reformist politics
 New general unions emerged in the late 1880s - these rejected the separation of politics and economics, older unions
 were for more highly skilled workers in specific crafts. These unions recognised that strikes weren't enough, however
@@ -35,7 +44,8 @@ Marxist SDF was 'incurably sectarian'. To protect their union machinery, new uni
 Bradford, which had suffered some of the greatest new union defeats, became the heart of the reformist movement.
 
 The increase in miltancy, even although defeated, together with increasing economic problems, led to the breakdown of
-Lib-Lab-ism laid the groundwork for the ILP
+Lib-Lab-ism and laid the groundwork for the ILP
+
 ** The Independent Labour Party
 Was founded in Bradford in 1893. It's aim was socialism, however explicitly via reformism and
 electoralism
@@ -44,10 +54,12 @@ Initially it had no members, just affiliations
 
 It was formed from the new union leadership, which although had moved to bureaucratism, were still
 advanced in comparison with the old unions
+
 ** The myth of the Golden Age
 
 The LP was never anything but reformist - despite later mythology presenting the party
 as having fallen from grace
+
 ** The Dependent Labour Party
 
 Reformism, having rejected Marxism, has no intellectual tradition. They
@@ -58,6 +70,7 @@ they couldn't enjoy their riches while the working class was in misery.
 
 Both Hardie and MacDonald turned to Labour only after rejection from the Liberals. Even so Hardie maintained
 his support for them
+
 ** 'The worst enemies of social revolution'
 
 The Fabians, in particular Beatrice and Sydney Webb, became the intellectual backbone
@@ -65,7 +78,7 @@ of the LP. Unfortunately they despised the WC. They supported eugenics, and oppo
 insurance.
 
 Two influences were
-    - Joseph Chamberlain's 'gospen of ransom' - i.e. get the WC just enough that they don't revolt
+    - Joseph Chamberlain's 'gospel of ransom' - i.e. get the WC just enough that they don't revolt
     - An ending of lassez faire - as Germany and the US became more powerful capitalists wanted
       the state to intervene
 
@@ -73,6 +86,7 @@ Their aims were to organize capitalist production at the state level. This would
 the WC.
 
 Lenin correctly said 'the LP is a thoroughly bourgeois party'
+
 * 2. Out of the bowels of the TUC
 ** A background of defeat and passivity
 
@@ -87,6 +101,7 @@ Eventually the bureacracy realised they would struggle to justify their existenc
 moved into politics
 
 [For all its weaknesses, the ILP was born of an advanced LW movement - the LP was a step backward]
+
 ** The foundation conference creates a 'Labour Alliance'
 
 The 1899 TUC called for a special congress to look into increaing the number of labour MPs
@@ -98,7 +113,8 @@ The right essentially wanted to continue Lib-Labism
 Keir Hardie propsed a group having their own whips, with no marked political differences
 
 The LP was created top-down, and initially the WC took little notice. They did poorly in the 1990 election,
-electing just two MPs - uncluding Hardie. The ILP ran 10 candidates without victory.
+electing just two MPs - including Hardie. The ILP ran 10 candidates without victory.
+
 ** The political expression of the trade union bureaucracy
 
 The LRC caused unions to begin to detach from the Liberals
@@ -113,6 +129,7 @@ action.
 Although the LRC was created from the link between economics and politics, it sought to separate the two - while
 maintaining some union attitudes. Just as unions don't really care about their members political beliefs as long
 as they pay dues, the LP wanted workers votes regardless of their politics.
+
 ** The problem of false consciousness
 
 The LP came about from a number of false beliefs
@@ -120,6 +137,7 @@ The LP came about from a number of false beliefs
 - that economics and politics can be separated
 - they could reject class war and take a common-sense approach
 - there is a community interest shared by all classes
+  
 ** A technical division of labour
 
 If the unions are once removed from class struggle, as they seek to bridge
@@ -130,6 +148,7 @@ Despite recommendations from union leaders, the LP did poorly even in heavily
 unionised areas
 
 It was for this reason that Bevin described the LP as being 'born out of the bowels of the TUC'
+
 ** Denying class in a class society
 
 The LP is an uneasy combination of being very close to the unions, while seeking to appeal
@@ -140,17 +159,20 @@ The LRC initially had little or no policies of its own, instead generally suppor
 Hardie wrote to several prominent Liberals to see if they would lead Labour - to no avail
 
 MacDonald and Galdstone made a secret deal to not compete against each other
+
 ** Significance
 
 The birth of Labour was a mixed blessing.
 It was an advance on Lib-Labism, however it sought no political advance at the base.
 As such it sacrificed the socialist ideals of the left wing as it looked to appeal to all classes.
+
 ** The impact of parliament
 
 In 1906 29 MPs were sent to parliament.
 
 At first they were struck with the lack of power - the inability to move the machinery of parliament.
 They were also awestruck at meeting famous politicians, and being treated as equals by them
+
 ** Taming conference
 
 The PLP was formed almost immediately. The 1907 conference gave MPs the freedom
@@ -159,6 +181,7 @@ change in meaning in the final version
 
 They did manage to referse Taff-Vale, albeit relucantly and with the help of the
 Liberals
+
 ** Poodles of Liberalism
 
 By 1910 the number of MPs had grown to 42 - helped by the affiliation of the miners.
@@ -168,6 +191,7 @@ voted alongside them. MacDonald considered merging with the Liberals.
 
 The support for the Liberals descended into farce when MacDonald scuttled his own motion, which was in effect
 a motion of censure, when it seemed it might win.
+
 ** Left alternatives
 
 The poor performance of the LP in these parliaments led to two reactions on the left
@@ -180,6 +204,7 @@ them
 
 MacDonald saw parliament as more important than the plight of the WC. This was exactly opposite
 to Lenin's view that parliamentary activity as the lowest form of the workers movement.
+
 ** The outside left
 
 
@@ -187,10 +212,11 @@ Syndicalists recognized the inadequacy of parliament
 
 The LP emerged from Liberalism due to the the union unrest beginning in 1910.
 Union membership doubled, there were several national strikes, and clashes with police.
+
 ** A brake on the movement
 
 The LP wasn't consulted over any union action. It frequently spoke against
-atrikes, describing parliamentary activity as the only was for socialism, and even as
+strikes, describing parliamentary activity as the only way for socialism, and even as
 being truly revolutionary.
 
 Labour MPs proposed a bill making it illegal to strike without going through a 30 day
@@ -198,6 +224,7 @@ conciliation process. The punishments were draconian fines. The TUC caused it to
 
 In 1913 the LP and unions reconciled in their opposition to the miners strike. They were both
 at risk from syndicalism. However syndicalism had no policies besides strikes for better pay/conditions.
+
 * 3. War and reconstruction: Labour adopts socialism
 ** An early casualty of the fighting
 
@@ -206,25 +233,29 @@ MacDonald was replaced by Henderson after expressing doubts about the war
 In 1915 the LP joined Asquith's coalition
 
 Internationalism was abandoned, and workers leaders supported the war
+
 ** Moralism and Labour politics
 
 Hardie discussed the idea of a general strike to prevent war, this was
 defeated by the unions, making a rare foray into politics.
 
+The ILP remained opposed to the war, even after the coalition.
+
 Internationalism was viewsed as a 'nice to have' by reformists, but expendable
 
-The ILP remained opposed to the war, even after the coalition.
 ** The meaning of the split
 
 The ILP opposed the war, as did Hardie, MacDonald and Snowden. Unions succumbed to patriotic hysteria - this was
 an occasion when crisis allowed the union bureaucracy to impose its wishes
+
 ** The diverse attitudes to war
 
-Pro-war views within the LP were extreme. ILP opponents were hounded, a mahjority of
+Pro-war views within the LP were extreme. ILP opponents were hounded, a majority of
 objectors who were tries were ILP members.
 
 The LP, unlike the SPD in Germany, didn't break up. This was because the bulk of its
 support came from the unions, and so could absorb the range of opinions the unions had.
+
 ** The limits of the ILP position
 
 The position of LP opponents to the war was based on the inefficiency of war - they viewed it
@@ -296,26 +327,27 @@ workers would actually be in control
 
 Nationalisation would cement the power the unions had gained during WWI
 
-Finally, it suited the reformist aim of piecemeal takeover of industry, but as Marks said, this would be
+Finally, it suited the reformist aim of piecemeal takeover of industry, but as Marx said, this would be
 ".. a reformation within the boundaries set by the bourgeoisie"
 
 * 4. Riding the post-war storm
 ** Did Labour prevent a British revolution?
-
 
 In 1918 there were revolutionary outbreaks in Finland, Germany, Austria, Hungary and Bavaria
 In all cases social democrats used 'socialism' as a fig-leaf for obsrtuction
 
 AH openly claimed that the LP calmed revolutionary spirit - however this isn't correct, the
 advanced workers largely ignored the LP
+
 ** The shifting centre of gravity
 
 Although the LP did poorly in the 1918 election in terms of seats, and while it added
 its voice to the anti-Bolshevik chorus, it was innefective in stopping the very great numbers of strikes
 that occurred at this time.
 
-The centre of power had shifted to the unions. The LP still played an importnat role as an alibi for
+The centre of power had shifted to the unions. The LP still played an important role as an alibi for
 the unions
+
 ** Three disputes
 
 In the Clydeside engineers strike for a 40 hour week the ILP tried to restrain the strikers
@@ -328,14 +360,17 @@ Similarly the leadership of the railwaymen brought their strike to an end in 9 d
 
 Although the LP and ILP were largely irrelevant - for example their papers didn't even have industrial correspondents,
 however their body of reformist ideas gave authority to the unions' brakes
+
 ** Direct action - threat or opportunity?
 
 Although there was talk at this time of direct action, the counter-arguments won. After all,
 what was the point of the LP if we don't acheive reform constitutionally?
+
 ** Labour's most daring hour
 
 Lloyd George called for British troops to back the Poles against Russia - this one time the LP
 supported calls for a general strike against this
+
 ** Black Friday - the transition to a governing party
 
 At times betraying the revolutionary left can raise support for reformism - as there
@@ -346,6 +381,7 @@ owners demanded a 50% pay cut. Labour offered no support, and in fact criticised
 unemployment benefits.
 
 Despite this - union membership suffered, and as support for direct action eroded, it transferred to the LP
+
 ** The swing of the pendulum
 
 As union membership plummeted, the vote for the LP in the 1922 election doubled on 1918.
@@ -373,7 +409,7 @@ the armed forces to do the work of strikers
 
 The union bureaucracy supported the government in blocking strikes - they felt reluctantly compelled
 
-** The true capiatlist party?
+** The true capitalist party?
 
 MacDonald announced at the opening of parliament that they would concentrate on rhte restoration of trade
 rather than unemployment relief
@@ -483,7 +519,7 @@ This led to ultra-leftist calls to disaffiliate
 
 ** Trotsky's conrtibution
 
-He correctly analysed the inadequacied in the LP, and correctly predicted that
+He correctly analysed the inadequacies in the LP, and correctly predicted that
 Britain was on the eve of a class struggle - however he expected the CP to replace
 the LP
 
@@ -526,15 +562,17 @@ The state had ceased to fear unrest. There was a change in tone in the 20s, from
 Disillusioned by the first Labour government, the unions sought to keep the LP
 out of their affairs
 
-The LP was appaled by Red Friday, when the miners forced the government to subsidise their wages.
+The LP was appalled by Red Friday, when the miners forced the government to subsidise their wages.
 
-As the general strike approached, the LP claime to be on the miners side - however this support was
+As the general strike approached, the LP claimed to be on the miners side - however this support was
 incompatible with capitalism, and so they sold out
+
 ** Solidarity, treachery and irrelevance
 
 The PLP did _nothing_ to support the strike
 
 The national executive doesn't appear to have even met during the strike
+
 ** Labour - the alibi for a sell-out
 
     The TUC leadership was terrified of the thought of confronting the state, and
@@ -544,17 +582,20 @@ The national executive doesn't appear to have even met during the strike
     this is incorrect
 
     The communist party, wlthough tiny, was much more active
+    
 ** The post-mortem
 
 The PLP was delighted when the strike collapsed, as it entrenched their power at the
 expense of the unions.
 
 As in previous defeats, the workers looked to the LP to help them
+
 ** A horrific postscript
 
 the LPs financial support for the miners was paltry to the point of cruelty
 
 The Webbs suffered anguish over a donation of £10
+
 ** The fruits of defeat: the anti-communist witch hunt
 
 The LP passed resolutions prohibiting people who had supported non-LP candidates from being delegates - this
@@ -589,27 +630,27 @@ They refused to bail out local authorities who had incurred debts supporting the
 They forgot their election promise for a 7 hour day for the miners
 They forgot their conference committment for an independent India at the earliest opportunity
 
-As unemployment increased, the government refused to creat public works - they argued that unemployment was
-necessary to work cheaply enough that private production would increase.
+As unemployment increased, the government refused to create public works - they argued that unemployment was
+necessary to make work cheap enough that private production would increase.
 
 ** Economic alternatives
 
 Socialism was not one of the alternatives discussed, the LP claimed they had no mandate for that
 
-Labour behaved like any capitalist government and opted for austerity - despite Keynsianism bing (a vague) part
+Labour behaved like any capitalist government and opted for austerity - despite Keynsianism being (a vague) part
 of the manifesto
 
-Mosley though Britain could isolate by using the empire for cheap raw materials, with state control of most everything at home.
+Mosley thought Britain could isolate by using the empire for cheap raw materials, with state control of most everything at home.
 This was nearly voted for in conference - Bevan was a supporter
 
 Labour - while caught in the deadlights - were tolerated by the opposition as they thought it was easier for the LP to apply
 austerity
 
 The cabinet rejected the TUCs suggestion as to where savings could be made, instead
-They asked the oppositions if a 10% dole cut would be ok...
+They asked the opposition if a 10% dole cut would be ok...
 who told them to ask the BOE...
 who told them to check with the Federal Reserve...
-who said they would speak to finanical leaders and get back to them
+who said they would speak to financial leaders and get back to them
 
 The reply was acceptance, as long as there was no hint of dissent in the cabinet. They failed to get a unanimous vote, so MacDonald
 (possibly relieved) ended the government
@@ -642,7 +683,7 @@ change via constitutional means - however he always backed down when challenged
 
 ** Rise and fall of the Socialist League
 
-Cripps was Chariman of the SL, which advocated revolutionary socialism,
+Cripps was chairman of the SL, which advocated revolutionary socialism,
 and while the leadership was stunned by 'MacDonald's betrayal' it was
 influential beyond its size
 
@@ -694,7 +735,7 @@ It also banned any activity promoting a unified front with communists
 Calls for a popluar front to combat facism meant allying with capitalist forces. These
 had no issue with Nazism itself, just its threat to the British Empire
 
-Many on the left moved from supportinf a united front (of workers) to a popular front (of everyone)
+Many on the left moved from supporting a united front (of workers) to a popular front (of everyone)
 very rapidly. However even this had no support from the LP leadership
 
 Cripps was expelled from the party for his continued promotion of the popular front,
@@ -748,7 +789,7 @@ that they withdraw from the government
 
 ** 'We are all Keynsians now'
 
-Large numbers of politicians, both Labour and Conservative, saw the wasr as vindicating Keynes. There
+Large numbers of politicians, both Labour and Conservative, saw the war as vindicating Keynes. There
 was difference in emphasis (e.g. jobs vs inflation) and some resistance. Bevan asked what was the point
 of the LP if they acccepted this
 
@@ -795,7 +836,6 @@ The NHS _wasn't_ achieved as a result of class struggle, although it's form may 
 to what the Conservatives might have brought in. 
 
 Labour attacked the NHS themselves before the end of their first government
-n 
 
 ** The turning point: 1947, 'annus horrendus'
 
@@ -963,7 +1003,7 @@ Immediately after the 1966 election Wilson brought in the most deflationary budg
 public investment cut and indirect taxes increased. This was to avoid devaluation, however it instead
 destroyed growth, increased unemployment (albeit to 2.6%) and devaluation occured in 1967 in any case.
 
-In the later 60s Wilso pursued further deflationary measures, however profits continued to decline
+In the later 60s Wilson pursued further deflationary measures, however profits continued to decline
 
 ** Incomes policy
 
@@ -975,7 +1015,7 @@ were the fuel of capitalism
 
 ** Bashing the unions: In Place of Strife
 
-To implement their incomes policy, Labour needed to inflict a heavy defeat ona striking union. They
+To implement their incomes policy, Labour needed to inflict a heavy defeat on a striking union. They
 chose the Seamen's Union, despite their managers being willing to settle.
 
 Wilson accused the union of being infiltrated by communists - this was false and he knew it. The TWGU
@@ -1049,18 +1089,20 @@ The Heath government introduced anti-union legislation along the lines that Labo
 had intended. This involved union registration - which all major unions refused to do.
 
 Massive strikes and demonstrations in Scotland prevented the closure of shipworks, similarly the
-government was forced to change the law to free improsoned strikers.
+government was forced to change the law to free imprisoned strikers.
 
 The coal miners strikes eventually brought down the government - which had issued a state
 of emergency 5 times.
 
 Labour meanwhile were silent
+
 ** Who led the massive industrial struggles?
 
 Initially the CP led the vanguard of shop stewards, however its decision to achieve power
 through both communist and left-wing Labour MPs inhibited it, and left it useless
 
 In its place came the International Socialists, a precursor to the SWP
+
 ** The echo of the battle: Labour's customary leftward swing
 
 A combination of industrial militancy, the awfulness of the Wilson government, meant
@@ -1071,6 +1113,7 @@ Also unilateral disarmament, and the removal of US bases.
 
 It also resolved that conference should be sovereign, and deplored that Labour in government
 ignored their resolutions
+
 ** The birth of the Alternative Economic Strategy
 
 This was adopted by the ocnference of 1973. It decided that there should be state planning,
@@ -1082,11 +1125,13 @@ put its own directors on the boards of multinationals...
 Again.. while businesses were still in private hands and motivated by profit.
 
 Its ideas were essentially nationalist Keynsianism
+
 ** The Social Contract
 
 This extended the AES to include price and rent controls, and further social benefits
 
 It also repealed anti-union laws
+
 ** Parasite lost
 
 Despite the radical program, the link between Labour and radical left-wing politics had
@@ -1179,7 +1224,7 @@ Callahan spent £1B on Polaris
 Labour and the Tories had essentially the same policies on NI. Michael Foot was resoundingly
 cheered when he celebrated Thatcher's resistance of the hunger strikers.
 
-Callaghan supported the aemy after Bloody Sunday
+Callaghan supported the army after Bloody Sunday
 
 In 1977 they went into a parliamentary alliance with the unionists, paying with 6 extra parliamentary seats
 
@@ -1187,7 +1232,7 @@ In 1977 they went into a parliamentary alliance with the unionists, paying with 
 
 Conference voted against the government many times. Wilson's strategy was to simply
 ignore it. Despite ther being a policy that conference motions with more the 2/3rds majority
-had to be pu on the manifesto, Wilson refused to put the abolition of the house of Lords there.
+had to be put on the manifesto, Wilson refused to put the abolition of the house of Lords there.
 
 The numbers of divisions with dissenting votes in this parliament was more than all there had been since the war
 
@@ -1198,10 +1243,10 @@ In turn the chancellor had little power compared to the BOE and Treasury
 
 ** The contortions of Tony Benn
 
-Benn only shifted left during the Heath government. He torn between wanting to be the
+Benn only shifted left during the Heath government. He was torn between wanting to be the
 best-known left winger, and staying in the cabinet. When these clashed he chose the latter.
 
-He was happy to impor Uranium fro South African run Namibia, aplogised for censuring the Royal Navy for
+He was happy to impor Uranium from South African run Namibia, aplogised for censuring the Royal Navy for
 doing joint exercises with South Africa. Supported the NUM impositions of regional incentives, despite a majority
 of members being against it
 
@@ -1218,6 +1263,7 @@ bureacracy meant Thatcher met little effective resistance.
 The TUC and the LP gave no support to strikers.
 
 The miners had been split by regional bargaining enforced by Labour
+
 ** Political upturn: Bennism
 
 The left's focus was wasted on constitutional issues. Mandatory reselection was brought in,
@@ -1229,15 +1275,17 @@ and they barely came second in the 1984 election.
 
 Benn vastly overestimated his support - which was largely in the leadership of some unions
 with large block votes
+
 ** Labour and the Thatcherite consensus
 
-Thatcher's privatisaion planned to sell so much of state owned enterprises
+Thatcher's privatisation planned to sell so much of state owned enterprises
 that Labour could never buy them back - especially as they were far from a post-war
 boom ecenomy.
 
 The party was divided on the subject. While there were some calls for renationalisation,
 some watered this down to workers owning a share. Share ownership itself was spoken
 of approvingly
+
 ** Partnership with private industry
 
 Hattersley went out of his way to reassure the rich he wouldn't tax them.
@@ -1250,21 +1298,24 @@ together - no more 'them and us'
 The LP was happy to maintain Thatcher's anti-union laws
 
 On unemployment the goal of the 9187 election was to reduce it from 4M to 3M over two years.
+
 ** Bennism in retreat and the witch-hunt against Militant
 
 Foot delivered a jingoistic speech in favour of the Falklands War - Benn came close
 
-The part planned to set up a register of organisations - intending to witch-hunt Militant
+The party planned to set up a register of organisations - intending to witch-hunt Militant
 
 At the time the Labour left was weak, Militant far weaker than the CP had been when they were
 expelled in the 1920s
 
 Militant had some support in the unions, but outside of Liverpool very little amongst the membership
+
 ** The 'dream ticket': Neil Kinnock becomes leader
 
 Kinnock began on the left of the party, voting against the Labour government far more
 times than Benn. Yet had moved right by the time he was elected, offering no support
 for the NUM and houding out Militant
+
 ** The collapse of 'municipal socialism'
 
 Labour councils were elected on a 'No cuts, no rent rises, no rate rises' manifesto.
@@ -1277,26 +1328,30 @@ workers
 
 Councillors were unwilling to risk imprisonment. Unlike at Poplar in the 20s, there were no
 strong ties between councillors and a wider movement they could draw on for support
+
 ** Feminism: a broken reed
 
 Feminism in the 80s, after a series of industial defeats, was individualist.
 Whereas the 70s had brought the equal pay act, abortion and free contraception
+
 ** New realism: exploiting political advantage from electoral defeats
 
 Why had Labour lost support
 
 The standard analysis at the time was that workers had moved to white-collar jobs.
-However the greates such shift occurred in the 1960s, when Labour had high support.
+However the greatest such shift occurred in the 1960s, when Labour had high support.
 
 Another explanation was the increase in shareholders - however this was grossly
 overestimated
 
 More likely was the memory that Labour never actually supported working class actions
+
 ** Workers' organisations intact
 
 Labour was beginning to see unions as less relevant. However union
 membership declined very little, despite the increase in unemployment, and
 those in work were able to protect their wages through industrial action
+
 ** Did Thatcher win the ideological battle?
 
 Nope - according to British Social Attitudes the general public
@@ -1305,6 +1360,7 @@ believed that we would all be better off if businesses mad higher profits, wile
 maintaining that the bulk of these profits would go to shareholders and managers.
 
 They further had quite an authoritarian streak
+
 ** So why did Thatcher win three elections in a row?
 
 Kinnock made it easier for Thatcher to escape highly unpopular decisions - such as the
@@ -1314,18 +1370,20 @@ On South Africa it was easy for Thatcher to dig up quotes by the LP against sanc
 
 Lack of faith in the LP due to its not supporting workers. Very few people identified
 with a political party in the 80S
+
 ** The Labour Party in 1987
 
 Kinnock put the blame on the hard left, blacks and gays. He opposed the creation
 of Black sections
 
-Kinnock and Brian Gould wanted to leapfrog Thatcher, gy advocating 'shares for all'
+Kinnock and Brian Gould wanted to leapfrog Thatcher by advocating 'shares for all'
 
 He introduced 'one-member-on-vote' for the election of parliamentary candidates. This
 was claimed to be more democratic, however he was aware of the gulf between active and passive members
 and knew the latter would be more susceptible to right wing media
 
 He spoke in glowing terms of Reagan's foreign policy
+
 ** Full circle
 
 Reforms are less dependent on which party is in power, than in the strength
@@ -1350,12 +1408,14 @@ Cherie Blair demanded a penniless non-payer be returned to jail
 The poll tax 'riots' were condemned by labour, with calls for stiff sentences.
 
 When the poll-tax was defeated, Blunkett claimed it as a victory of theirs.
+
 ** Labour's Gulf war syndrome
 
 When the war begain in 1991, there were no calls for a parliamentary debate. Kinnock
 fawningly sided with John Major
 
 Before the war began Labour were 15 pts ahead, largely due to the poll tax. After the war they were 5 pts behind
+
 ** The 1992 election
 
 Labour - bizarrely - chose to focus on policies of little interest to the electorate, such as PR,
@@ -1363,11 +1423,13 @@ instead of the NHS. It was also a presidential style election, focussing very mu
 
 After their defeat the blame was put on their policies of increasing taxation for the rich - regardless
 of the evidence
+
 ** The mines tragedy
 
 Labour offered no support to striking miners when further pit closures were announced.
 
 Unions resisted strike calls in general due to the hope of a forthcoming Labour government
+
 ** One Member One Vote - Weakening the union link
 
 Although for much of its history the membership had been to the left of the unions, in
@@ -1378,6 +1440,7 @@ in peoples reasons for not voting Labour
 
 The unions, needing Labour support in the event of a Labour victory, allowed the rule change to
 go ahead.
+
 ** New Labour's new members
 
 The advantage for Labour of OMOV was the absence of informed debate. Instead members
@@ -1386,11 +1449,13 @@ However even the pasive membership was to the left of the leadership. To counter
 left wing groups were purged in the early 90s, in particular young labour.
 
 The membership consisted more of well meaning professionals than working class
+
 ** The Labour left's manic depression
 
 The left suffered due to the changes in membership and voting rules. Benn was dropped from the NEC,
 power was centralised, and Blair beame the most right-wing leader Labour had ever had.
-Claire short went from dire warnings about the modernisers to full throated support of Blair
+Claire Short went from dire warnings about the modernisers to full throated support of Blair
+
 ** The evolution of Labour policies
 
 from 87 to 92 public opinion shifted left, however Labour policy didn't
@@ -1411,13 +1476,14 @@ of delivery
 Harriet Harman reassured the CBI that 18-24 year olds would receive a much lower wage
 
 Brown - "Labour is not against wealth, nor will we seek to penalise it"
-Blair - "If someone goes ont o be wealthy, good luck to them"
+Blair - "If someone goes on to be wealthy, good luck to them"
 
 Ken Clarke remarked on how little crticism he received (as chancellor)
 
 Brown - "Labour will be tougher on the causes of inflation than the Conservatives"
 
 Blair had no wish to extend union law beyond those granted by the EU social charter
+
 ** Tony Blair and Labour
 
 Thatcher was a fan of Blair, and vice-versa
@@ -1425,6 +1491,7 @@ Thatcher was a fan of Blair, and vice-versa
 He thought the party had moved beyond left and right
 
 He told the unions they would no longer have an arm-lock on policy [when did they?]
+
 ** Back to the pre-1918 era?
 
 Blair claimed that Socialism was not about class or trade unions
@@ -1437,6 +1504,7 @@ chance of getting a Labour government
 
 The balancing act that Labour had performed for capitalism became harder, as reformist demands - such
 as a job, healthcare, and basic services clashed with the desires of capital to increase exploitation
+
 ** Prospects for a Blair government
 
 Labour equivalents in Australia, New Zealand and Spain all decreased wages,
@@ -1458,7 +1526,7 @@ However Mandelson suggested
 Taken from Will Hutton - this amounted to a modernised Keynsianism, but meant even less
 when Blair said it. He assured the CBI it wouldn't strengthen workers rights
 
-Blair announced the policy in Singapore - who's happy facism he seemed to like
+Blair announced the policy in Singapore - whose happy facism he seemed to like
 
 Stakeholding was based on a cohesive society, which reeked ot one nation toryism. 
 
@@ -1470,6 +1538,7 @@ countries, with lowest social mobility
 
 Before Blair, arguments (at least publicly) were about the speed of reform.
 Under Blair that was no longer the case - he didn't want to improve conditions for the WC
+
 ** The most popular government ever!
 
 Not really... The %age vote was less than even in losing elections in the 50s and 60s.
@@ -1482,6 +1551,7 @@ Gordon Brown lost in 2010 - the history written by TB suggested the problem was 
 although there was precious little difference between them
 
 Brown described the government as always being a "pro-business, pro-enterprise and pro-competition government"
+
 ** New Labour and class
 
 Blair: "Thatcher had done the right thing in liberating enterprise and industry"
@@ -1506,11 +1576,13 @@ public spending
 
 He considered the poor as being too lazy to work - and reduced unemployment by moving people into
 low paid jobs
+
 ** Public spending
 
 There was increased NHS spending, raising the UK to the OECD average, however there was increased privatisation.
 The PMC took over hospitals, and PFI turned out to be eye-wateringly expensive - to the extent that
 Cameron abandoned it
+
 ** The Home Office
 
 New Labour re-created the undeserving poor. Spoke against universal benefits, and created
@@ -1519,6 +1591,7 @@ many more crimes
 On immigration, due to fear of it being an issue they could lose votes on, they move rightwards.
 This gave credibility to the BNP whose vot share increased significantly. They made it near
 impossible for refugees to come to the UK, thus forcing them to try illegally.
+
 ** War at home and abroad...
 
 Blair liked war. With Kosovo, Sierra Leone, Afghanistan and Iraq he killed more UK soldiers than
@@ -1530,10 +1603,12 @@ Brown said it was time to stop apologizing for the Empire, and we should celebra
 
 The trigger for Blair's resignation was his failure to condemn Israel's killing of 1300 Lebanese, as the
 region had many injustices, of which the palestinians was only one
+
 ** The 'no more boom and bust' prime minister
 
 And the 2008 happened. Brown portrayed himself as an innocent victim, and his handing over public cash to
 the banks as 'saving the world' - although it probably was accurate that he saved capitalism
+
 ** Inside and outside Labour
 
 Labour was viewed by its members as centralized and controlling - couse it was
@@ -1543,6 +1618,7 @@ Ken still ran and won easily. Dobson came third
 
 The PLP rebellion against the second Iraq war was much bigger than the first - because of the huge
 deomonstration
+
 ** Conclusion
 
 Rosa Luxemburg said that those who seek legislative reform aren't seeking a different path to the same
@@ -1556,7 +1632,7 @@ to David
 He claimed to be distancing himself from New Labour while maintaining that minimally regulated markets were good and
 there was a need to restrict spending
 
-Ed gave mild criticism of Iraq, yet supported thw war in Afghanistan
+Ed gave mild criticism of Iraq, yet supported the war in Afghanistan
 
 ** Milliband and the resistance to austerity
 
@@ -1583,17 +1659,15 @@ The SNP was able to position itself to the left of Labour
 
 His promises of more austerity incredibly failed to win him the election
 
-
-
 ** Jermey Corbyn and the earthquake in Labour
 
-The blairites who came up with the idea of affiliated supporters had deluded themselves about
+The Blairites who came up with the idea of affiliated supporters had deluded themselves about
 middle England. Although JC won in all sections, it was in that which he won the most.
 
 He was unique in always having been anti-imperialist, however for the sake of party unity
 he allowed a free vote on bombing Syria
 
-** The European Union, Brexint and international capital
+** The European Union, Brexit and international capital
 
 Corbyn had always been anti-EU. He compromised again to keep party unity
 The left case for Brexit was almost unheard
@@ -1637,14 +1711,14 @@ received, and to a more extreme degree Greece under Syrzia
 If this failed then there was the army and intelligence services, both of whom had stated
 their potential illegal resistance to a Corbyn led government
 
-Once again - attempting refomr within the framework of capitalism cannot be done
+Once again - attempting reform within the framework of capitalism cannot be done
 
 * 20. Conclusion
 
 Labour has no theory of its own - it borrows them from Liberals. It accepts the framework of capitalism, however there are
 limits to how far right it can go
 
-It is events outside the party whigh determine its nature, in the past these were the russian revolution, the great depression
+It is events outside the party whigh determine its nature, in the past these were the Russian revolution, the great depression
 and the world wars
 
 We need a party outside of Labour that opposes capitalism - but doesn't reject Labour
